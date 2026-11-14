@@ -1,0 +1,6 @@
+mujoco>=3.17
+numpy
+scipy
+matplotlib
+mediapy
+jupyter

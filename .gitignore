@@ -1,0 +1,4 @@
+# Robot models downloaded by the notebooks on first run
+upkie_description-*/
+.ipynb_checkpoints/
+__pycache__/
